@@ -1,2 +1,1 @@
-# BIG-DATA_Project
-Comparison of K-Means Clustering and Density-Based Spatial Clustering of Applications with Noise (DBSCAN) in Identifying Particulate Matter (PM2.5) Pollution Hotspots using the Global High Air Pollutants (GHAP) Dataset from September to December 2022
+# Comparison of K-Means Clustering and Density-Based Spatial Clustering of Applications with Noise (DBSCAN) in Identifying Particulate Matter (PM2.5) Pollution Hotspots using the Global High Air Pollutants (GHAP) Dataset from September to December 2022
