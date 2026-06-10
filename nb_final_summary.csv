@@ -1,0 +1,16 @@
+Property,K-Means,DBSCAN
+Algorithm,K-Means,DBSCAN
+Num clusters,5,2
+Noise points,0,650
+Noise %,0.0%,0.7%
+Silhouette,0.4588,0.3014
+Davies-Bouldin ↓,0.7987,1.4118
+Calinski-Harabasz ↑,24355.79,10797.13
+Hotspot cluster ID,2,1
+Hotspot points (p90+),9581,8703
+Agreement (both agree),8703,8703
+Scaler used,StandardScaler,MinMaxScaler
+Needs K upfront?,Yes,No
+Handles noise natively?,No,Yes
+Finds non-spherical clusters?,No,Yes
+Scalability,Linear O(nK),O(n²) naive

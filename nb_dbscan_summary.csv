@@ -1,0 +1,4 @@
+cluster,label,n_points,avg_pm25,std_pm25,median_pm25,max_pm25,centroid_lat,centroid_lon,is_hotspot
+-1,noise,650,2.816,1.56,2.094,6.5,10.6566,57.9145,False
+0,cluster_0,32865,1.827,0.813,1.695,5.833,35.7425,-83.5321,False
+1,cluster_1,62707,2.32,1.276,1.815,6.35,31.6824,70.1215,True
